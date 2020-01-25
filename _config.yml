@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: DIY Blog
+title: DIY Massivholz-Kinderbett
 
 # Short description of your site
 description: Schritt für Schritt Anleitung zum Kindertraum
@@ -13,7 +13,7 @@ description: Schritt für Schritt Anleitung zum Kindertraum
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - DIY Massivholz-Kinderbett: aboutme"
+    - DIY Massivholz-Kinderbett: "https://massivholzkinderbett.github.io/"
     - Learn markdown: "http://www.markdowntutorial.com/"
   #Author's home: "aboutme"
 
