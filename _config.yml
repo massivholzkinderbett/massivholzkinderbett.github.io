@@ -13,7 +13,7 @@ description: Schritt für Schritt Anleitung für dies und das
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - DIY Massivholz-Kinderbett: "https://massivholzkinderbett.github.io/"
+    - DIY Massivholz-Kinderbett: "2019-12-10-holzbett"
     - Learn markdown: "http://www.markdowntutorial.com/"
   #Author's home: "aboutme"
 
