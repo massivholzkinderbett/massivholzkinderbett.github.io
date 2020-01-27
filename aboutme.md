@@ -17,6 +17,6 @@ Mein Name ist Mark Gregory. Ich habe folgende Fähigkeiten:
 
 Fehlt was?
 
-### my history
+### Lebenslauf
 
-geboren, ausgebildet, Haus gebaut, verheirated, 2 Kinder und weitere **Projekte**. Falls es jeand genauer wissen möchte, guckt hier:  [linkedIn](https://www.linkedin.com/in/mark-gregory-8b530397/).
+geboren, ausgebildet, Haus gebaut, verheiratet, 2 Kinder und weitere **Projekte**. Falls es jemand genauer wissen möchte, guckt hier:  [linkedIn](https://www.linkedin.com/in/mark-gregory-8b530397/).
