@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Whoever is interested in it...
 ---
+
+![me and son](/img/about_me_pic.PNG)
 
 My name is Mark Gregory. I have the following qualities:
 
-- ...
-- hmm...
+- build stuff (re-build stuff if it broke)
+- program stuff (coupled with debugging stuff...)
+- play with children
+- working with Free-Space Optical satellite terminals
+- play the drums / compose music
+- MTB
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Born, educated, build house, married, got two kids and lots of **projects**. If anyone is interested in more details, check out my profile on  [linkedIn](https://www.linkedin.com/in/mark-gregory-8b530397/).
