@@ -43,7 +43,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 #navbar-img: "/img/Header_bg_image.png"
-footer-img: "/img/bgimage.png"
+#footer-img: "/img/bgimage.png"
 #page-img: "/img/big_image.png"
 
 # --- Footer options --- #
@@ -185,6 +185,7 @@ exclude:
   - /_posts/2015-02-13-hamlet-monologue.md
   - /_posts/2015-02-26-flake-it-till-you-make-it.md
   - /_posts/dummy.md
+  - /img/img_backup
   - CHANGELOG.md
   - CNAME
   - Dockerfile
