@@ -15,7 +15,7 @@ navbar-links:
   Projekte:
     - DIY Massivholz-Kinderbett: "2019-12-10-holzbett"
     - Learn markdown: "http://www.markdowntutorial.com/"
-  #Author's home: "aboutme"
+  Impressum: "impressum"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
