@@ -4,7 +4,6 @@ title: Impressum
 ---
 
 ## Angaben gemäß § 5 TMG
-
 Mark Gregory
 Römerstraße 3
 71570 Oppenweiler
